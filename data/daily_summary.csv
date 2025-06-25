@@ -1,0 +1,4 @@
+Date,Classification,AvgPnL,TotalPnL,AvgLeverage,TotalSize,AvgPrice
+2024-01-10,Greed,35.0,70,7.5,0.7,30250.0
+2024-01-11,Fear,200.0,200,3.0,1.2,1800.0
+2024-01-12,Greed,-50.0,-50,8.0,0.3,31000.0
